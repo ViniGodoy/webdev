@@ -1,0 +1,9 @@
+.clock {
+    text-align: right;
+    font-weight: bold;
+    font-family: "Courier New", monospaced, monospace;
+    display: block;
+    color: black;
+    background: #61dafb;
+    padding: 5px 10px;
+}
